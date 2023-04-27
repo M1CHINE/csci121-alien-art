@@ -11,4 +11,8 @@ const ART = [
    "filename": "Satellite.txt",
    "credit_text": "anonymous",
    "credit_url": "https://www.asciiart.eu/space/satellites"},
+ {"title": "Alien",
+   "filename": "alien.txt",
+   "credit_text": "Tissue",
+   "credit_url": "https://www.asciiart.eu/space/aliens"},
 ];
